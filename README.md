@@ -8,4 +8,4 @@ A command-line calculator built in Python that supports basic and advanced math 
 - Handles divide-by-zero errors
 - Lets you calculate repeatedly without restarting
 
-## How to run
+
